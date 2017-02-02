@@ -1,0 +1,217 @@
+Manchester City
+Arsenal
+Liverpool
+Tottenham
+Chelsea
+Everton
+Manchester United
+Southampton
+Watford
+Bournemouth
+Crystal Palace
+Leicester
+West Bromwich Albion
+Burnley
+West Ham United
+Stoke
+Middlesbrough
+Hull
+Swansea
+Sunderland
+Juventus
+Roma
+AC Milan
+Napoli
+Torino
+Lazio
+Chievo
+Atalanta
+Sassuolo
+Cagliari
+Fiorentina
+Genoa
+Bologna
+Inter
+Sampdoria
+Udinese
+Pescara
+Empoli
+Palermo
+Crotone
+Real Madrid
+Sevilla
+Barcelona
+Villarreal
+Atletico Madrid
+Athletic Club
+Real Sociedad
+Celta Vigo
+Las Palmas
+Malaga
+Eibar
+Real Betis
+Alaves
+Leganes
+Valencia
+Deportivo La Coruna
+Espanyol
+Sporting Gijon
+Osasuna
+Granada
+Nice
+Monaco
+Paris Saint Germain
+Toulouse
+Guingamp
+Rennes
+Saint-Etienne
+Bordeaux
+Angers
+Lyon
+Marseille
+Metz
+Dijon
+Nantes
+SC Bastia
+Lille
+Montpellier
+Caen
+Nancy
+Lorient
+Bayern Munich
+RasenBallsport Leipzig
+Hertha Berlin
+Hoffenheim
+FC Cologne
+Borussia Dortmund
+Eintracht Frankfurt
+Freiburg
+Mainz 05
+Borussia M.Gladbach
+Bayer Leverkusen
+Augsburg
+Darmstadt
+Schalke 04
+Werder Bremen
+Wolfsburg
+Ingolstadt
+Hamburger SV
+Lechia Gdansk
+Jagiellonia Bialystok
+Termalica Nieciecza
+Zaglebie Lubin
+Arka Gdynia
+Cracovia
+Pogon Szczecin
+Legia Warszawa
+Lech Poznan
+Wisla Plock
+Slask Wroclaw
+Ruch Chorzow
+Gornik Leczna
+Piast Gliwice
+Wisla Krakow
+Korona Kielce
+Basel
+Ludogorets
+Celtic
+Dynamo Kiev
+PSV Eindhoven
+Benfica
+Besiktas
+FC Rostov
+FC Porto
+FC Copenhagen
+Sporting CP
+Dinamo Zagreb
+CSKA Moscow
+Club Brugge
+Qarabag FK
+Slovan Liberec
+Astra Giurgiu
+Austria Wien
+APOEL Nicosia
+FC Astana
+Feyenoord
+Rapid Wien
+Racing Genk
+Young Boys
+Olympiacos
+Viktoria Plzen
+Maccabi Tel Aviv
+Zenit St. Petersburg
+AZ Alkmaar
+Dundalk
+Anderlecht
+FK Qabala
+Zorya
+Fenerbahce
+Ankaraspor
+Steaua Bucarest
+Sparta Prague
+Hapoel Beer Sheva
+PAOK Thessaloniki FC
+Standard Liege
+Salzburg
+FC Krasnodar
+Sporting Braga
+Gent
+FC Zurich
+Panathinaikos
+Ajax Amsterdam
+Konyaspor
+Shakhtar Donetsk
+San Marino
+Azerbaijan
+Denmark
+Armenia
+Kazakhstan
+Poland
+Slovakia
+England
+Lithuania
+Slovenia
+Czech Republic
+North. Ireland
+Norway
+Germany
+Romania
+Montenegro
+Malta
+Scotland
+Georgia
+Austria
+Croatia
+Turkey
+Serbia
+Ireland Rep
+Ukraine
+Iceland
+Israel
+Italy
+Wales
+Moldova
+Spain
+Liechtenstein
+Finland
+Kosovo
+Albania
+Macedonia
+Faroe Islands
+Hungary
+Cyprus
+Belgium
+Bosnia-Herzegovina
+Estonia
+Gibraltar
+Greece
+Bulgaria
+Luxembourg
+Sweden
+Netherlands
+Switzerland
+Portugal
+Andorra
+Latvia
+Belarus
+France
