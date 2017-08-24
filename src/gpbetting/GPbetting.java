@@ -26,7 +26,7 @@ public class GPbetting {
     static String loginArea = "//input[@name='login']";
     static String passwordArea = "//input[@name='password']";
     static String login = "mateusz.rynczak";
-    static String password = "ciastek90";
+    static String password = "";
     static String submitLogin = "//button[@type='submit']";
     static String activeRound = "(//li[@data-ng-repeat='round in ctrl.rounds.running']/a)[1]";
     static String matches = "(//ul[@class='nav nav-second-level collapse in']/li/a)[1]";
