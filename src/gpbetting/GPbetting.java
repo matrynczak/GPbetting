@@ -25,7 +25,7 @@ public class GPbetting {
     static Wait<WebDriver> wait;
     static String loginArea = "//input[@name='login']";
     static String passwordArea = "//input[@name='password']";
-    static String login = "mateusz.rynczak";
+    static String login = "";
     static String password = "";
     static String submitLogin = "//button[@type='submit']";
     static String activeRound = "(//li[@data-ng-repeat='round in ctrl.rounds.running']/a)[1]";
